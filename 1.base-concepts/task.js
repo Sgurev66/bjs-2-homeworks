@@ -13,7 +13,7 @@ function solveEquation(a, b, c) {
   arr.push (x, y);
  }
  return arr;
-  
+} 
 
 function calculateTotalMortgage(percent, contribution, amount, countMonths) {
   
